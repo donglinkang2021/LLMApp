@@ -1,0 +1,3 @@
+[submodule "PDFapp"]
+	path = PDFapp
+	url = git@github.com:donglinkang2021/PDFapp.git
